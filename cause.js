@@ -1,17 +1,17 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You always know how to make me laugh, even on my worst days! 😊", 
+        text: "ITS YOU THE FIRST GIRL I MET WHO TALKED FIRST TO ME AFTER A VERY COMPLICATED FIGHT! (WO ALG BAAT H LADAI MENE HI COMPLICATED BANAI THI)😊", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
+        text: "YOU'RE THE PERFECT BLEND OF TOO MUCH SILLY AND A LITTEL SENSIBLE-I ADORE YOU THAT ABOUT YOU" 💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii Chillati hy mere upar isliyee, hehehe 💕", 
+        text: " 💕", 
         emoji: "👂",
         gif: "gif1.gif"
     },
